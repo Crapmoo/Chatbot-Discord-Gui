@@ -39,7 +39,8 @@ Click image or click this link --> www.youtube.com/watch?v=t0Hv2SqklPM
 
 ### Method 2
 - Change "import bottle.ext.websocket as wbs"  to  "import bottle_websocket as wbs"
-  go to this folder (Change "_YOUR_USER_" to your user like "Administrator" or "Crapmoo-Pc" )
+  
+go to this folder (Change "_YOUR_USER_" to your user like "Administrator" or "Crapmoo-Pc" )
 ```bash
  C:\Users\"_YOUR_USER_"\AppData\Local\Programs\Python\Python312\Lib\site-packages\eel
 ```
