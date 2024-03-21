@@ -63,7 +63,7 @@ Click image or click this link --> www.youtube.com/watch?v=t0Hv2SqklPM
 - use python 3.10.x
 
 ### Method 2
-- Change "import bottle.ext.websocket as wbs"  to  "import bottle_websocket as wbs"
+- Change `import bottle.ext.websocket as wbs`  to  `import bottle_websocket as wbs`
   
 go to this folder ( Change `"_YOUR_USER_"` to your user like `Administrator` or `Crapmoo-Pc` )
 ```bash
