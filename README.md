@@ -24,7 +24,7 @@ This is a easy way to use AI chatbot in discord server.
 ```
 3.open file run.bat and have fun
 
- Youtube Overview
+
 ## Watch installation on youtube 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/t0Hv2SqklPM/0.jpg)](https://www.youtube.com/watch?v=t0Hv2SqklPM)
 
@@ -38,8 +38,20 @@ Click image or click this link --> www.youtube.com/watch?v=t0Hv2SqklPM
 - use python 3.10.x
 
 ### Method 2
-- go to folder 
-
+- Change "import bottle.ext.websocket as wbs"  to  "import bottle_websocket as wbs"
+  go to this folder (Change "_YOUR_USER_" to your user like "Administrator" or "Crapmoo-Pc" )
 ```bash
- C:\Users\_YOUR_USER_\AppData\Local\Programs\Python\Python312\Lib\site-packages\eel\
+ C:\Users\"_YOUR_USER_"\AppData\Local\Programs\Python\Python312\Lib\site-packages\eel
 ```
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1169126665935405126/1220347422904029194/image.png?ex=660e9c1a&is=65fc271a&hm=0deeb783c8d5b1c18b7c52d0d6b5d9c94f0c3b700018a00d8f1153e3bfe51212&">
+</div>
+ open __init__.py with notepad
+ <div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1169126665935405126/1220349069004640317/image.png?ex=660e9da3&is=65fc28a3&hm=2c87ff3ac7ed57e9054f557398d93c8c48733ffb76f9468ba8ecadd5f86451f4&">
+</div>
+ edit "import bottle.ext.websocket as wbs"  to  "import bottle_websocket as wbs"
+ <div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1169126665935405126/1220349159685750854/image.png?ex=660e9db8&is=65fc28b8&hm=613efa62e8a75168c843da981e33ee323a7eb536587a6334ffe5eff67f234bd0&">
+</div>
+
