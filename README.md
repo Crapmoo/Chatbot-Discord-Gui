@@ -1,7 +1,4 @@
 
-![Logo](https://cdn.discordapp.com/attachments/1169126665935405126/1220334063626358814/logo.png?ex=660e8fa9&is=65fc1aa9&hm=bddc97c91b2fc5adb823b62d6ea8627037f91dd50f025c255a399046f9e8da1f&)
-
-
 # Chatbot-discord-gui 
 
 This is a easy way to use AI chatbot in discord server.
