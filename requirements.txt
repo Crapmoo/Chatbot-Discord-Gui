@@ -1,0 +1,4 @@
+Eel==0.16.0
+google-generativeai==0.4.1
+openai==1.14.2
+discord.py==2.3.2

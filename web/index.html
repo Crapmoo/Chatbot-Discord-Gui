@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="font/css/all.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link href="img/logo.png" rel="shortcut icon" type="image/x-icon">
+    <script type="text/javascript" src="/eel.js"></script>
+    <script type="text/javascript" src="js/jquery-3.7.1.slim.min.js"></script>
+    <script src="js/sweetalert.min.js"></script>
+    <title>Chatbot Discord</title>
+</head>
+
+<body>
+    <div class="container mt-5">
+        <div class="text-center d-flex align-items-center justify-content-center">
+            <img src="/img/logo.png" alt="Chatbot Discord Logo" class="img-fluid img-thumbnail">
+        </div>
+        <div class="text-center d-flex align-items-center justify-content-center">
+            <h1>Chatbot Discord</h1>
+
+        </div>
+        <div class="text-center d-flex align-items-center justify-content-center">
+            <p>Status</p>
+        </div>
+        <div class="text-center d-flex align-items-center justify-content-center">
+
+            <div id="bot-status" class="px-2 rounded-pill">------</div>
+        </div>
+        <div class="row ">
+            <div class="col-md-6 offset-md-3">
+                <label class="form-label">Chatbot Engine</label>
+                <select class="form-select" id="engine_chatbot">
+                    <option value="gemini-1.0-pro-001">gemini-1.0-pro-001</option>
+                    <option value="gpt-4-turbo-preview">gpt-4-turbo-preview</option>
+                    <option value="gpt-4-1106-preview">gpt-4-1106-preview</option>
+                    <option value="gpt-4-0613">gpt-4-0613</option>
+                    <option value="gpt-4-0125-preview">gpt-4-0125-preview</option>
+                    <option value="gpt-4">gpt-4</option>
+                    <option value="gpt-3.5-turbo-16k-0613">gpt-3.5-turbo-16k-0613</option>
+                    <option value="gpt-3.5-turbo-16k">gpt-3.5-turbo-16k</option>
+                    <option value="gpt-3.5-turbo-1106">gpt-3.5-turbo-1106</option>
+                    <option value="gpt-3.5-turbo-0613">gpt-3.5-turbo-0613</option>
+                    <option value="gpt-3.5-turbo-0301">gpt-3.5-turbo-0301</option>
+                    <option value="gpt-3.5-turbo-0125">gpt-3.5-turbo-0125</option>
+                    <option value="gpt-3.5-turbo">gpt-3.5-turbo</option>
+                </select>
+            </div>
+            <div class="col-md-6 offset-md-3">
+                <div class="mb-3 mt-3">
+                    <label class="form-label">Discord bot token</label>
+                    <div class="input-group">
+                        <input type="password" class="form-control" id="discord_token" placeholder="Discord bot token" required>
+                        <button class="btn btn-outline-secondary" type="button" id="toggle_token"><i class="fas fa-eye"></i></button>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 offset-md-3">
+                <div class="mb-3 ">
+                    <label class="form-label">API Key</label>
+                    <div class="input-group">
+                        <input type="password" class="form-control" id="api_key" placeholder="API Key" required>
+                        <button class="btn btn-outline-secondary" type="button" id="toggle_key"><i class="fas fa-eye"></i></button>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 offset-md-3">
+                <div class="mb-3 ">
+                    <label class="form-label">Chanel ID</label>
+                    <input type="text" class="form-control" id="chanel_id" placeholder="Chanel ID" required>
+                </div>
+            </div>
+            <div class="col-md-6 offset-md-3">
+                <div class="mb-3 d-flex justify-content-end">
+                    <a href="https://github.com/Crapmoo/Chatbot-Discord-Gui" target=" _blank "><label class="form-label ">How to use?</label></a>
+                </div>
+            </div>
+            <div class="col-md-6 offset-md-3 ">
+                <div class="container-fluid d-flex justify-content-center align-items-center ">
+                    <button type="button " onclick="bot_stop(); " class="btn btn-danger m-1 ">Stop Bot</button>
+                    <button type="button " onclick="bot_start(); " class="btn btn-primary m-1 ">Start Bot</button>
+                    <button type="button " onclick="bot_log(); " class="btn btn-success m-1 ">Log</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="js/bootstrap.bundle.min.js "></script>
+    <script src="js/main.js "></script>
+</body>
+
+</html>
