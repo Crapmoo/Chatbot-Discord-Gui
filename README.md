@@ -23,7 +23,7 @@ This is a easy way to use AI chatbot in discord server.
 
 ## Model support
 
-|              | Model                                                               | Test |
+|    Developer          | Model                                                               | Test |
 | ----------------- | ------------------------------------------------------------------ | ------|
 | Google | gemini-1.0-pro-001 | ✔️ |
 | OpenAI | gpt-4-turbo-preview | ✔️ |
