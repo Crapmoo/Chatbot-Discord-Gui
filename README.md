@@ -39,6 +39,15 @@ This is a easy way to use AI chatbot in discord server.
 | OpenAI | gpt-3.5-turbo-0125 | ✔️ | ✔️ |
 | OpenAI | gpt-3.5-turbo | ✔️ | ✔️ |
 
+## Os support
+
+|    Os          | Test | Pass |
+| -------------- | -----| ---- |
+| Windows 10     | 🟢   | ✔️  |
+| Windows 11     | 🔴   | -  |
+| Mac os     | 🔴   | -  |
+| Linux    | 🔴   | -  |
+
 
 
 
