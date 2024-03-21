@@ -37,5 +37,6 @@ Method 1.use python 3.10.x
 
 method 2. go to folder 
 
-``` C:\Users\_YOUR_USER_\AppData\Local\Programs\Python\Python312\Lib\site-packages\eel\
+```bash
+ C:\Users\_YOUR_USER_\AppData\Local\Programs\Python\Python312\Lib\site-packages\eel\
 ```
