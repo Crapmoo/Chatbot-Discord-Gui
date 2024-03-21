@@ -20,7 +20,7 @@ This is a easy way to use AI chatbot in discord server.
 - Log
 - Auto save config value
 
-##  Model subport
+##  Model support
 
 - gemini-1.0-pro-001
 - gpt-4-turbo-preview
