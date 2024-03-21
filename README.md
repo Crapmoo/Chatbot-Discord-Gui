@@ -27,3 +27,7 @@ This is a easy way to use AI chatbot in discord server.
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/tgbNymZ7vqY">
 </iframe>
+### Check out this video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tgbNymZ7vqY" frameborder="0" allowfullscreen></iframe>
+
