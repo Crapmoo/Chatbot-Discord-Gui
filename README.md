@@ -23,6 +23,14 @@ This is a easy way to use AI chatbot in discord server.
 
 ## Model support
 
+Status
+|   Symbol  | Status |
+|----------|---------|
+| 🔴      | Not test |
+|🟢 |  Test |
+| ✔️ | Pass |
+| ❌ | Fail |
+
 |    Developer          | Model                                                               | Test | Pass |
 | ----------------- | ------------------------------------------------------------------ | ------| ------|
 | Google | gemini-1.0-pro-001 | ✔️ | ✔️ |
