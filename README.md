@@ -12,6 +12,15 @@ This is a easy way to use AI chatbot in discord server.
     <img src="https://cdn.discordapp.com/attachments/1169126665935405126/1220337452020138096/image.png?ex=660e92d1&is=65fc1dd1&hm=ff53eb3172b42014f1c9d3c08589be7ebfcc20c578bdd93069d420356d5e8cf6&">
 </div>
 
+
+## Features
+
+- Can select chat engine model Gemini or ChatGPT
+- Start stop bot in one click
+- Log
+- Auto save config value
+
+
 ## Installation
 
 
