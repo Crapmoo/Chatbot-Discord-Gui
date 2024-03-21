@@ -24,10 +24,6 @@ This is a easy way to use AI chatbot in discord server.
 ```
 3.open file run.bat and have fun
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
-### Check out this video:
+ Youtube Overview
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tgbNymZ7vqY" frameborder="0" allowfullscreen></iframe>
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=t0Hv2SqklPM)
