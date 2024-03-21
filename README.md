@@ -29,3 +29,13 @@ This is a easy way to use AI chatbot in discord server.
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/t0Hv2SqklPM/0.jpg)](https://www.youtube.com/watch?v=t0Hv2SqklPM)
 
 Click image or click this link --> www.youtube.com/watch?v=t0Hv2SqklPM
+## Fix error ModuleNotFoundError: No module named 'bottle.ext.websocket'
+
+ If you have this problem 
+
+Method 1.use python 3.10.x
+
+method 2. go to folder 
+
+``` C:\Users\_YOUR_USER_\AppData\Local\Programs\Python\Python312\Lib\site-packages\eel\
+```
