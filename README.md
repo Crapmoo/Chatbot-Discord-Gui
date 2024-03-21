@@ -44,12 +44,12 @@ go to this folder ( Change "_YOUR_USER_" to your user like "Administrator" or "C
 ```bash
  C:\Users\"_YOUR_USER_"\AppData\Local\Programs\Python\Python312\Lib\site-packages\eel
 ```
+![image](https://cdn.discordapp.com/attachments/1169126665935405126/1220347422904029194/image.png?ex=660e9c1a&is=65fc271a&hm=0deeb783c8d5b1c18b7c52d0d6b5d9c94f0c3b700018a00d8f1153e3bfe51212&)
 
-    <img src="https://cdn.discordapp.com/attachments/1169126665935405126/1220347422904029194/image.png?ex=660e9c1a&is=65fc271a&hm=0deeb783c8d5b1c18b7c52d0d6b5d9c94f0c3b700018a00d8f1153e3bfe51212&">
 
  open __init__.py with notepad
-
-    <img src="https://cdn.discordapp.com/attachments/1169126665935405126/1220349069004640317/image.png?ex=660e9da3&is=65fc28a3&hm=2c87ff3ac7ed57e9054f557398d93c8c48733ffb76f9468ba8ecadd5f86451f4&">
+![image](https://cdn.discordapp.com/attachments/1169126665935405126/1220349069004640317/image.png?ex=660e9da3&is=65fc28a3&hm=2c87ff3ac7ed57e9054f557398d93c8c48733ffb76f9468ba8ecadd5f86451f4&)
+    <img src="">
 
  edit "import bottle.ext.websocket as wbs"  to  "import bottle_websocket as wbs"
 
