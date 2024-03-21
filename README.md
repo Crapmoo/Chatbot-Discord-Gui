@@ -77,7 +77,7 @@ go to this folder ( Change "_YOUR_USER_" to your user like "Administrator" or "C
 ![image](https://cdn.discordapp.com/attachments/1169126665935405126/1220349069004640317/image.png?ex=660e9da3&is=65fc28a3&hm=2c87ff3ac7ed57e9054f557398d93c8c48733ffb76f9468ba8ecadd5f86451f4&)
 
 
- edit "import bottle.ext.websocket as wbs"  to  "import bottle_websocket as wbs"
+ edit `import bottle.ext.websocket as wbs`  to  `import bottle_websocket as wbs`
  ```bash
 import bottle_websocket as wbs
 ```
