@@ -34,9 +34,11 @@ Click image or click this link --> www.youtube.com/watch?v=t0Hv2SqklPM
 </details>
  If you have this problem 
 
-### Method 1.use python 3.10.x
+### Method 1
+- use python 3.10.x
 
-### Method 2. go to folder 
+### Method 2
+- go to folder 
 
 ```bash
  C:\Users\_YOUR_USER_\AppData\Local\Programs\Python\Python312\Lib\site-packages\eel\
