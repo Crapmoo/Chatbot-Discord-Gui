@@ -60,7 +60,7 @@ Click image or click this link --> www.youtube.com/watch?v=t0Hv2SqklPM
  If you have this problem 
 
 ### Method 1
-- use python 3.10.x
+- use `python 3.10`
 
 ### Method 2
 - Change `import bottle.ext.websocket as wbs`  to  `import bottle_websocket as wbs`
