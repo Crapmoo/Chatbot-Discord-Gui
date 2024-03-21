@@ -23,21 +23,21 @@ This is a easy way to use AI chatbot in discord server.
 
 ## Model support
 
-|    Developer          | Model                                                               | Test |
-| ----------------- | ------------------------------------------------------------------ | ------|
-| Google | gemini-1.0-pro-001 | ✔️ |
-| OpenAI | gpt-4-turbo-preview | ✔️ |
-| OpenAI | gpt-4-1106-preview | ✔️ |
-| OpenAI | gpt-4-0613 | ✔️|
-| OpenAI | gpt-4-0125-preview | ✔️ |
-| OpenAI | gpt-4 | ✔️ |
-| OpenAI | gpt-3.5-turbo-16k-0613 | ✔️ |
-| OpenAI | gpt-3.5-turbo-16k | ✔️ |
-| OpenAI | gpt-3.5-turbo-1106 | ✔️ |
-| OpenAI | gpt-3.5-turbo-0613 | ✔️ |
-| OpenAI | gpt-3.5-turbo-0301 | ✔️ |
-| OpenAI | gpt-3.5-turbo-0125 | ✔️ |
-| OpenAI | gpt-3.5-turbo | ✔️ |
+|    Developer          | Model                                                               | Test | Pass |
+| ----------------- | ------------------------------------------------------------------ | ------| ------|
+| Google | gemini-1.0-pro-001 | ✔️ | ✔️ |
+| OpenAI | gpt-4-turbo-preview | ✔️ | ✔️ |
+| OpenAI | gpt-4-1106-preview | ✔️ | ✔️ |
+| OpenAI | gpt-4-0613 | ✔️| ✔️ |
+| OpenAI | gpt-4-0125-preview | ✔️ | ✔️ |
+| OpenAI | gpt-4 | ✔️ | ✔️ |
+| OpenAI | gpt-3.5-turbo-16k-0613 | ✔️ | ✔️ |
+| OpenAI | gpt-3.5-turbo-16k | ✔️ | ✔️ |
+| OpenAI | gpt-3.5-turbo-1106 | ✔️ | ✔️ |
+| OpenAI | gpt-3.5-turbo-0613 | ✔️ | ✔️ |
+| OpenAI | gpt-3.5-turbo-0301 | ✔️ | ✔️ |
+| OpenAI | gpt-3.5-turbo-0125 | ✔️ | ✔️ |
+| OpenAI | gpt-3.5-turbo | ✔️ | ✔️ |
 
 
 
