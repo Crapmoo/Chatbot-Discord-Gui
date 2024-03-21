@@ -20,30 +20,24 @@ This is a easy way to use AI chatbot in discord server.
 - Log
 - Auto save config value
 
-##  Model support
 
-- gemini-1.0-pro-001
-- gpt-4-turbo-preview
-- gpt-4-1106-preview
-- gpt-4-0613
-- gpt-4-0125-preview
-- gpt-4
-- gpt-3.5-turbo-16k-0613
-- gpt-3.5-turbo-16k
-- gpt-3.5-turbo-1106
-- gpt-3.5-turbo-0613
-- gpt-3.5-turbo-0301
-- gpt-3.5-turbo-0125
-- gpt-3.5-turbo
+## Model support
 
-## Color Reference
-
-| Color             | Hex                                                                |
+| Color             | Model                                                               | Test |
 | ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+| Google | gemini-1.0-pro-001 | Pass ![#0a192f] |
+| OpenAI | gpt-4-turbo-preview |
+| OpenAI | gpt-4-1106-preview |
+| OpenAI | gpt-4-0613 |
+| OpenAI | gpt-4-0125-preview |
+| OpenAI | gpt-4 |
+| OpenAI | gpt-3.5-turbo-16k-0613 |
+| OpenAI | gpt-3.5-turbo-16k |
+| OpenAI | gpt-3.5-turbo-1106 |
+| OpenAI | gpt-3.5-turbo-0613 |
+| OpenAI | gpt-3.5-turbo-0301 |
+| OpenAI | gpt-3.5-turbo-0125 |
+| OpenAI | gpt-3.5-turbo |
 
 
 
