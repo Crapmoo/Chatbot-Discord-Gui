@@ -27,4 +27,5 @@ This is a easy way to use AI chatbot in discord server.
  Youtube Overview
 ## Watch installation on youtube 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/t0Hv2SqklPM/0.jpg)](https://www.youtube.com/watch?v=t0Hv2SqklPM)
+
 Click image or click this link --> www.youtube.com/watch?v=t0Hv2SqklPM
