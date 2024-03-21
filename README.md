@@ -25,7 +25,7 @@ This is a easy way to use AI chatbot in discord server.
 
 |              | Model                                                               | Test |
 | ----------------- | ------------------------------------------------------------------ | ------|
-| Google | gemini-1.0-pro-001 | Pass (https://via.placeholder.com/10/0a192f?text=+) #0a192f |
+| Google | gemini-1.0-pro-001 | Pass ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
 | OpenAI | gpt-4-turbo-preview | Pass ![#0a192f] |
 | OpenAI | gpt-4-1106-preview | Pass ![#0a192f] |
 | OpenAI | gpt-4-0613 | Pass ![#0a192f] |
