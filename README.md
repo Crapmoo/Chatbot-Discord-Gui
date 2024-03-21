@@ -48,11 +48,13 @@ go to this folder ( Change "_YOUR_USER_" to your user like "Administrator" or "C
 
 
  open __init__.py with notepad
+ 
 ![image](https://cdn.discordapp.com/attachments/1169126665935405126/1220349069004640317/image.png?ex=660e9da3&is=65fc28a3&hm=2c87ff3ac7ed57e9054f557398d93c8c48733ffb76f9468ba8ecadd5f86451f4&)
-    <img src="">
+
 
  edit "import bottle.ext.websocket as wbs"  to  "import bottle_websocket as wbs"
 
-    <img src="https://cdn.discordapp.com/attachments/1169126665935405126/1220349159685750854/image.png?ex=660e9db8&is=65fc28b8&hm=613efa62e8a75168c843da981e33ee323a7eb536587a6334ffe5eff67f234bd0&">
+![image](https://cdn.discordapp.com/attachments/1169126665935405126/1220349159685750854/image.png?ex=660e9db8&is=65fc28b8&hm=613efa62e8a75168c843da981e33ee323a7eb536587a6334ffe5eff67f234bd0&)
+
 
 
