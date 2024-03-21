@@ -47,7 +47,7 @@ go to this folder ( Change "_YOUR_USER_" to your user like "Administrator" or "C
 ![image](https://cdn.discordapp.com/attachments/1169126665935405126/1220347422904029194/image.png?ex=660e9c1a&is=65fc271a&hm=0deeb783c8d5b1c18b7c52d0d6b5d9c94f0c3b700018a00d8f1153e3bfe51212&)
 
 
- open __init__.py with notepad
+ open "__init__.py" with notepad
  
 ![image](https://cdn.discordapp.com/attachments/1169126665935405126/1220349069004640317/image.png?ex=660e9da3&is=65fc28a3&hm=2c87ff3ac7ed57e9054f557398d93c8c48733ffb76f9468ba8ecadd5f86451f4&)
 
