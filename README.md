@@ -25,10 +25,10 @@ This is a easy way to use AI chatbot in discord server.
 
 |              | Model                                                               | Test |
 | ----------------- | ------------------------------------------------------------------ | ------|
-| Google | gemini-1.0-pro-001 | Pass ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| OpenAI | gpt-4-turbo-preview | Pass ![#0a192f](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
-| OpenAI | gpt-4-1106-preview | Pass (https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
-| OpenAI | gpt-4-0613 | Pass ![](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+| Google | gemini-1.0-pro-001 | Pass ![](https://via.placeholder.com/10/00b48a?text=+) |
+| OpenAI | gpt-4-turbo-preview | Pass ![](https://via.placeholder.com/10/00b48a?text=+) |
+| OpenAI | gpt-4-1106-preview | Pass ![](https://via.placeholder.com/10/00b48a?text=+) |
+| OpenAI | gpt-4-0613 | Pass ![](https://via.placeholder.com/10/00b48a?text=+)|
 | OpenAI | gpt-4-0125-preview | Pass ![#0a192f] |
 | OpenAI | gpt-4 | Pass ![#0a192f] |
 | OpenAI | gpt-3.5-turbo-16k-0613 | Pass ![#0a192f] |
