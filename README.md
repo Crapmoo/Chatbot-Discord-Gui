@@ -32,11 +32,11 @@ This is a easy way to use AI chatbot in discord server.
 
 |    Developer          | Model                                                               | Test | Pass |
 | ----------------- | ------------------------------------------------------------------ | ------| ------|
-| Google | gemini-1.0-pro-001 |  | ✔️ |
+| Google | gemini-1.0-pro-001 | 🟢 | ✔️ |
 | OpenAI | gpt-4-turbo-preview | 🟢 | ✔️ |
 | OpenAI | gpt-4-1106-preview | 🟢 | ✔️ |
 | OpenAI | gpt-4-0613 | 🟢| ✔️ |
-| OpenAI | gpt-4-0125-preview | ✔️ | ✔️ |
+| OpenAI | gpt-4-0125-preview | 🟢 | ✔️ |
 | OpenAI | gpt-4 | 🟢 | ✔️ |
 | OpenAI | gpt-3.5-turbo-16k-0613 | 🟢 | ✔️ |
 | OpenAI | gpt-3.5-turbo-16k | 🟢 | ✔️ |
