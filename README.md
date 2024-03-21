@@ -21,15 +21,17 @@ This is a easy way to use AI chatbot in discord server.
 - Auto save config value
 
 
-## Model support
-
-Status
+## Status symbol
 |   Symbol  | Status |
 |----------|---------|
 | 🔴      | Not test |
+| 🟡 | Pending |
 |🟢 |  Test |
 | ✔️ | Pass |
 | ❌ | Fail |
+| ⏳ | Penging|
+
+## Model support
 
 |    Developer          | Model                                                               | Test | Pass |
 | ----------------- | ------------------------------------------------------------------ | ------| ------|
