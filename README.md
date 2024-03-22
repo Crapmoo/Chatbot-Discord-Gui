@@ -64,15 +64,13 @@ This is a easy way to use AI chatbot in discord server.
 
 ## Installation
 
-
-1.Install python (if you use 3.12.x version you may edit the eel library. See how to fix in the next step.)
-
-2.install the library with this command
+1. Install python (if you use 3.12.x version you may edit the eel library. See how to fix in the next step.)
+2. install the library with this command
 
 ```bash
   pip install -r requirement.txt
 ```
-3.open file `run.bat` and have fun
+3 .open file `run.bat` and have fun
 
 
 ## Watch installation on youtube 
