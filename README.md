@@ -110,7 +110,7 @@ Click image or [`Click Here`](www.youtube.com/watch?v=t0Hv2SqklPM)
 
 Watch video on youtube
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uOdp_E1vL68/1.jpg)](https://www.youtube.com/watch?v=uOdp_E1vL68)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uOdp_E1vL68/0.jpg)](https://www.youtube.com/watch?v=uOdp_E1vL68)
 
 Click image or [`Click Here`](www.youtube.com/watch?v=uOdp_E1vL68)
 
