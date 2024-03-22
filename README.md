@@ -9,6 +9,7 @@ This is a easy way to use AI chatbot in discord server.
     <img src="https://cdn.discordapp.com/attachments/1169126665935405126/1220337452020138096/image.png?ex=660e92d1&is=65fc1dd1&hm=ff53eb3172b42014f1c9d3c08589be7ebfcc20c578bdd93069d420356d5e8cf6&">
 </div>
 
+---
 
 ## Features
 
@@ -16,6 +17,8 @@ This is a easy way to use AI chatbot in discord server.
 - Start stop bot in one click
 - Log
 - Auto save config value
+
+---
 
 
 ## Status symbol
@@ -27,6 +30,8 @@ This is a easy way to use AI chatbot in discord server.
 | ✔️ | Pass |
 | ❌ | Fail |
 | ⏳ | Penging|
+
+---
 
 ## Model support
 
@@ -55,8 +60,7 @@ This is a easy way to use AI chatbot in discord server.
 | Mac os     | 🔴   | ⏳  |
 | Linux    | 🔴   | ⏳  |
 
-
-
+---
 
 ## Installation
 
@@ -75,6 +79,9 @@ This is a easy way to use AI chatbot in discord server.
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/t0Hv2SqklPM/0.jpg)](https://www.youtube.com/watch?v=t0Hv2SqklPM)
 
 Click image or click this link --> www.youtube.com/watch?v=t0Hv2SqklPM
+
+---
+
 ## Fix error ModuleNotFoundError: No module named 'bottle.ext.websocket'
 
 </details>
@@ -105,5 +112,5 @@ import bottle_websocket as wbs
 
 ![image](https://cdn.discordapp.com/attachments/1169126665935405126/1220349159685750854/image.png?ex=660e9db8&is=65fc28b8&hm=613efa62e8a75168c843da981e33ee323a7eb536587a6334ffe5eff67f234bd0&)
 
-
+---
 
