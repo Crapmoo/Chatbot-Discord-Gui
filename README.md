@@ -110,3 +110,22 @@ Click image or [`Click Here`](www.youtube.com/watch?v=t0Hv2SqklPM)
 
 ---
 
+
+# How to use
+
+1. Open `run.bat`
+
+2. Select `Chat model`
+
+3. Add your `Discord bot token`
+
+4. Add your `API key`
+
+5. Add your `Discord channel id`
+
+6. Click `Start`
+
+---
+
+
+
