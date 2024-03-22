@@ -83,7 +83,7 @@ Click image or [`Click Here`](www.youtube.com/watch?v=t0Hv2SqklPM)
 ## Fix error ModuleNotFoundError: No module named 'bottle.ext.websocket'
 
 </details>
- If you have this problem 
+ If you have `ModuleNotFoundError: No module named 'bottle.ext.websocket` problem 
 
 ### Method 1
  - use `python 3.10`
