@@ -119,7 +119,7 @@ Click image or [`Click Here`](www.youtube.com/watch?v=uOdp_E1vL68)
 
 # How to use
 
-1. Open `run.bat`
+1. Open `run.bat` and wait for 10-30 second
 
 2. Select `Chat model` add your `Discord bot token` `API key` and `Discord channel id`
 
