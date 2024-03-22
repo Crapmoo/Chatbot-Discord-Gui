@@ -128,4 +128,30 @@ Click image or [`Click Here`](www.youtube.com/watch?v=t0Hv2SqklPM)
 ---
 
 
+# How to get Discord token
+
+1. Create discord bot
+
+2. Invite your bot
+
+3. Get `token`
+
+---
+
+# How to get API key
+
+### Google Gemini
+ 1. go to [Google AI studio](https://aistudio.google.com/app/apikey)
+ 2. create `API Key`
+ 3. Copy
+
+### Openai ChatGPT
+
+1. go to [OpenAI](https://platform.openai.com/api-keys)
+2. Create new secret key
+3. Copy
+   
+---
+    
+
 
