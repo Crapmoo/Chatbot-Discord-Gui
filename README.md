@@ -68,7 +68,7 @@ This is a easy way to use AI chatbot in discord server.
 2. install the library with this command
 
 ```bash
-  pip install -r requirement.txt
+  pip install -r requirements.txt
 ```
 3. open file `run.bat` and have fun
 
