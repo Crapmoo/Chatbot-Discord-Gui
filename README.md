@@ -109,7 +109,8 @@ Click image or [`Click Here`](www.youtube.com/watch?v=t0Hv2SqklPM)
  ![image](https://cdn.discordapp.com/attachments/1169126665935405126/1220349159685750854/image.png?ex=660e9db8&is=65fc28b8&hm=613efa62e8a75168c843da981e33ee323a7eb536587a6334ffe5eff67f234bd0&)
 
 Watch video on youtube
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uOdp_E1vL68/0.jpg)](https://www.youtube.com/watch?v=uOdp_E1vL68)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uOdp_E1vL68/1.jpg)](https://www.youtube.com/watch?v=uOdp_E1vL68)
 
 Click image or [`Click Here`](www.youtube.com/watch?v=uOdp_E1vL68)
 
