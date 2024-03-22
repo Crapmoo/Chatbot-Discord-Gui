@@ -31,7 +31,7 @@ This is a easy way to use AI chatbot in discord server.
 | ❌ | Fail |
 | ⏳ | Penging|
 
----
+
 
 ## Model support
 
