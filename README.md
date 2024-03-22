@@ -70,7 +70,7 @@ This is a easy way to use AI chatbot in discord server.
 ```bash
   pip install -r requirement.txt
 ```
-3 .open file `run.bat` and have fun
+3. open file `run.bat` and have fun
 
 
 ## Watch installation on youtube 
