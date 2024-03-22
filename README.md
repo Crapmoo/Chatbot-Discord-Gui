@@ -64,7 +64,7 @@ This is a easy way to use AI chatbot in discord server.
 
 ## Installation
 
-1. Install python (if you use 3.12.x version you may edit the eel library. See how to fix in the [next step](https://github.com/Crapmoo/Chatbot-Discord-Gui?tab=readme-ov-file#fix-error-modulenotfounderror-no-module-named-bottleextwebsocket).)
+1. Install [python](https://www.python.org/) (if you use 3.12.x version you may edit the eel library. See how to fix in the [next step](https://github.com/Crapmoo/Chatbot-Discord-Gui?tab=readme-ov-file#fix-error-modulenotfounderror-no-module-named-bottleextwebsocket).)
 2. install the library with this command
 
 ```bash
@@ -76,7 +76,7 @@ This is a easy way to use AI chatbot in discord server.
 ## Watch installation on youtube 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/t0Hv2SqklPM/0.jpg)](https://www.youtube.com/watch?v=t0Hv2SqklPM)
 
-Click image or click this link --> www.youtube.com/watch?v=t0Hv2SqklPM
+Click image or [`Click Here`](www.youtube.com/watch?v=t0Hv2SqklPM)
 
 ---
 
