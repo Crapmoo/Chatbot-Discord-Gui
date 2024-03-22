@@ -152,6 +152,13 @@ Click image or [`Click Here`](www.youtube.com/watch?v=t0Hv2SqklPM)
 3. Copy
    
 ---
+
+# How to get Discord channel id
+1. enable deverloper mode
+2. right click at discord chat you want
+3. copy channel id
+
+---
     
 
 
