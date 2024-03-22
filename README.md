@@ -1,4 +1,4 @@
-
+4
 # Chatbot-discord-gui 
 
 This is a easy way to use AI chatbot in discord server.
@@ -121,15 +121,9 @@ Click image or [`Click Here`](www.youtube.com/watch?v=uOdp_E1vL68)
 
 1. Open `run.bat`
 
-2. Select `Chat model`
+2. Select `Chat model` add your `Discord bot token` `API key` and `Discord channel id`
 
-3. Add your `Discord bot token`
-
-4. Add your `API key`
-
-5. Add your `Discord channel id`
-
-6. Click `Start`
+3. Click `Start bot`
 
 ---
 
