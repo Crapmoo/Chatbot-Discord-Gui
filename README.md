@@ -130,7 +130,7 @@ Click image or [`Click Here`](www.youtube.com/watch?v=uOdp_E1vL68)
 
 # How to get Discord token
 
-1. Create discord bot at [Discrod Dev](https://discord.com/developers/applications)
+1. Create discord bot at [Discord Developer Portal](https://discord.com/developers/applications)
 
 2. Invite your bot
 
