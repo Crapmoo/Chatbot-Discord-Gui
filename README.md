@@ -108,11 +108,11 @@ Click image or [`Click Here`](www.youtube.com/watch?v=exadadr-Chc)
 
  ![image](https://cdn.discordapp.com/attachments/1169126665935405126/1220349159685750854/image.png?ex=660e9db8&is=65fc28b8&hm=613efa62e8a75168c843da981e33ee323a7eb536587a6334ffe5eff67f234bd0&)
 
-# Watch video on youtube
+## Watch video on youtube
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uOdp_E1vL68/0.jpg)](https://www.youtube.com/watch?v=uOdp_E1vL68)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kpmD9kGNX3o/0.jpg)](https://www.youtube.com/watch?v=kpmD9kGNX3o)
 
-Click image or [`Click Here`](www.youtube.com/watch?v=uOdp_E1vL68)
+Click image or [`Click Here`](www.youtube.com/watch?v=kpmD9kGNX3o)
 
 ---
 
@@ -125,6 +125,13 @@ Click image or [`Click Here`](www.youtube.com/watch?v=uOdp_E1vL68)
 
 3. Click `Start bot`
 
+## Watch how to use on youtube
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kJ6vDeleDrk/0.jpg)](https://www.youtube.com/watch?v=kJ6vDeleDrk)
+
+Click image or [`Click Here`](www.youtube.com/watch?v=kJ6vDeleDrk)
+
+
 ---
 
 
@@ -136,6 +143,14 @@ Click image or [`Click Here`](www.youtube.com/watch?v=uOdp_E1vL68)
 
 3. Get `token`
 
+## Watch how to get Discord token on youtube
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GVLSx5si__w/0.jpg)](https://www.youtube.com/watch?v=GVLSx5si__w)
+
+Click image or [`Click Here`](www.youtube.com/watch?v=GVLSx5si__w)
+
+
+
 ---
 
 # How to get API key
@@ -145,11 +160,23 @@ Click image or [`Click Here`](www.youtube.com/watch?v=uOdp_E1vL68)
  2. create `API Key`
  3. Copy
 
+##### Watch how to get Gemini API key on youtube
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hz1vRWJxiYE/0.jpg)](https://www.youtube.com/watch?v=hz1vRWJxiYE)
+
+Click image or [`Click Here`](www.youtube.com/watch?v=hz1vRWJxiYE)
+
 ### Openai ChatGPT
 
 1. go to [OpenAI](https://platform.openai.com/api-keys)
 2. Create new secret key
 3. Copy
+
+##### Watch how to get ChatGPT API key on youtube
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LevN-zIJ61E/0.jpg)](https://www.youtube.com/watch?v=LevN-zIJ61E)
+
+Click image or [`Click Here`](www.youtube.com/watch?v=LevN-zIJ61E)
    
 ---
 
@@ -157,6 +184,12 @@ Click image or [`Click Here`](www.youtube.com/watch?v=uOdp_E1vL68)
 1. enable deverloper mode
 2. right click at discord chat you want
 3. copy channel id
+
+## Watch how to get Discord channel id on youtube
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jDoi_Aq9ibU/0.jpg)](https://www.youtube.com/watch?v=jDoi_Aq9ibU)
+
+Click image or [`Click Here`](www.youtube.com/watch?v=jDoi_Aq9ibU)
 
 ---
     
